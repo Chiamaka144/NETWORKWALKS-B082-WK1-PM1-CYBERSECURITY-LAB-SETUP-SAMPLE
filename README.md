@@ -305,10 +305,12 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**igboanugo chiamaka vivian\
+Cybersecurity analyst 
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: https://www.linkedin.com/in/chiamaka-igboanugo-462391389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 
 ---
 
